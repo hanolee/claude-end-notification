@@ -1,0 +1,34 @@
+{
+  "enabled": true,
+  "events": {
+    "stop": true,
+    "notification": true
+  },
+  "notificationTypes": {
+    "permission_prompt": true,
+    "idle_prompt": true,
+    "elicitation_dialog": true,
+    "elicitation_complete": false,
+    "elicitation_response": false,
+    "auth_success": false
+  },
+  "sound": "default",
+  "skipWhenFocused": false,
+  "focusedApps": [
+    "Terminal",
+    "iTerm2",
+    "iTerm",
+    "WezTerm",
+    "Ghostty",
+    "Alacritty",
+    "kitty",
+    "Code",
+    "WindowsTerminal",
+    "powershell",
+    "pwsh",
+    "cmd"
+  ],
+  "cooldownSeconds": 0,
+  "macBackend": "auto",
+  "winBackend": "auto"
+}

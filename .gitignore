@@ -1,0 +1,12 @@
+# user's local config — config.example.json stays tracked
+config.json
+
+# runtime state (cooldown timestamps)
+state/
+
+# os / editor cruft
+.DS_Store
+node_modules/
+
+# claude code machine-local settings
+.claude/settings.local.json

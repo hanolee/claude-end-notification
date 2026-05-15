@@ -1,0 +1,16 @@
+{
+  "name": "hano-tools",
+  "owner": {
+    "name": "hano",
+    "email": "dev@keumbang.co.kr"
+  },
+  "description": "Claude Code 생산성 플러그인 모음",
+  "plugins": [
+    {
+      "name": "claude-end-notification",
+      "source": "./",
+      "description": "Claude 작업 완료·질문 시 macOS/Windows 시스템 알림",
+      "version": "0.1.0"
+    }
+  ]
+}
