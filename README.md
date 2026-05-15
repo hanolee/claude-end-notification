@@ -23,7 +23,7 @@ Claude Code가 **작업을 끝냈을 때**와 **질문·권한을 요청할 때*
 이 저장소는 플러그인이면서 동시에 마켓플레이스입니다.
 
 ```
-/plugin marketplace add hano/claude-end-notification
+/plugin marketplace add hanolee/claude-end-notification
 /plugin install claude-end-notification@hano-tools
 ```
 
